@@ -1,5 +1,5 @@
-CLIENT_ID="671bd2e367064e5d852ff23bf4cd8456"
-CLIENT_SECRET="98bf440c4a624e70a7d63e8180cfab5f"
+CLIENT_ID="xxxxxxxx"
+CLIENT_SECRET="xxxxxxxxx"
 
 import spotipy
 #from spotipy.oauth2 import SpotifyOAuth
