@@ -22,7 +22,7 @@ body{
   padding: 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  background: url(/img/bg.jpg) no-repeat;
+  background: url(/login/img/bg.jpg) no-repeat;
   background-size: cover;
 }
 h1{
